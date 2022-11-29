@@ -2,6 +2,11 @@
 #define LISTS_H
 #include <stdlib.h>
 
+/**
+ * struct listint_s - singly linked list
+ * @n: inter
+ * @next: points to next node
+**/
 typedef struct listint_s
 {
 int n;
