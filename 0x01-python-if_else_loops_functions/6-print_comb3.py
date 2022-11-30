@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-# Author - Tolulope Fakunle
-
 
 
 for digit1 in range(0, 10):
