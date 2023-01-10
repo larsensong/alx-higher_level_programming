@@ -1,9 +1,6 @@
 #!/usr/bin/python3
 
 # 2-is_same_class.py
-
-# Larsen Song
-
 """Defines a class-checking function."""
 
 
