@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
-# 10-square.py
-
+# 11-square.py
 
 """Defines a Rectangle subclass Square."""
 
