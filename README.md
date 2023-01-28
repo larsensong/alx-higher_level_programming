@@ -1,4 +1,4 @@
-> 🚧 **Project :** alx-low_level_programming
+> 🚧 **Project :** alx-higher_level_programming
 
 
 > 📝 **Summary:**
@@ -6,35 +6,35 @@
 > These are projects that helped me understand a bit of low-level programming.
 
 <br>
+* [0x00. Python - Hello, World](./0x00-python-hello_world)
+* [0x01. Python - if/else, loops, functions](./0x01-python-if_else_loops_functions)
+* [0x02. Python - import & modules](./0x02-python-import_modules)
+* [0x03. Python - Data Structures: Lists, Tuples](./0x03-python-data_structures)
+* [0x04. Python - More Data Structures: Set, Dictionary](./0x04-python-more_data_structures)
+* [0x05. Python - Exceptions](./0x05-python-exceptions)
+* [0x06. Python - Classes and Objects](./0x06-python-classes)
+* [0x07. Python - Test-driven development](./0x07-python-test_driven_development)
+* [0x08. Python - More Classes and Objects](./0x08-python-more_classes)
+* [0x09. Python - Everything is object](./0x09-python-everything_is_object)
+* [0x0A. Python - Inheritance](./0x0A-python-inheritance)
+* [0x0B. Python - Input/Output](./0x0B-python-input_output)
+* [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle)
 
-> ⌨️ **Languages Used :**
 
-<table>
-  <tr>
-    <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
-    <td><img alt="medium" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></td>
-    <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
-  </tr>
-</table>
+## Author :black_nib:
 
+* **Larsen_dev** <[larsensong](https://github.com/larsennsong)>
 
+## Acknowledgements :pray:
 
-| #  | Projects Guide:                                                                      |
-|--- | ------------------------------------------------------------------------------------ |
-| 00 | [0x00. - C - Hello, World](./0x00-hello_world)                                       | 
-| 01 | [0x01. - C - Variables, if, else, while](./0x01-variables_if_else_while)             |
-| 02 | [0x02. - C - Functions & Nested Loops](./0x02-functions_nested_loops)                | 
-| 03 | [0x03. - C - Debugging](./0x03-debugging)                                            | 
-| 04 | [0x04. - C - More functions & More Nested Loops](./0x04-more_functions_nested_loops) | 
-| 05 | [0x05. - C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)           |
-| 06 | [0x06. - C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)      | 
-| 07 | [0x07. - C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings) | 
-| 08 | [0x08. - C - Recursion](./0x08-recursion)                                            | 
-| 09 | [0x09. - C - Static libraries](./0x09-static_libraries)                              |
-| 10 | [0x0A. - C - argc, argv](./0x0A-argc_argv)                                           | 
-| 11 | [0x0B. - C - malloc, free](./0x0B-malloc_free)                                       | 
-| 12 | [0x0C. - C - More malloc, free](./0x0C-more_malloc_free)                       | 
-| 13 | [0x0D. C - Preprocessor](./0x0D-preprocessor)                                        |
-| 14 | [0x0E. C - Structures, typedef](./0x0E-structures_typedef)                           | 
-| 15 | [0x0F. C - Function pointers](./0x0F-function_pointers)                              | 
-| 16 | [0x10. C - Variadic functions](./0x10-variadic_functions) 
+All work contained in this project is  part of the curriculum for
+ALX in conjunction with  Holberton School. This is a campus-based full-stack software
+engineering program that prepares students for careers in the tech industry
+using project-based peer learning. For more information, visit
+[this link](https://www.holbertonschool.com/).
+
+<p align="center">
+  <img src="http://www.holbertonschool.com/holberton-logo.png"
+       alt="Holberton School logo"
+  >
+</p>
