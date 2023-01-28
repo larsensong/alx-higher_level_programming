@@ -2,7 +2,7 @@
 
 
 
-## Author :black_nib
+## Author
 
 * **Larsen_dev** <[larsensong](https://github.com/larsensong)>
 
