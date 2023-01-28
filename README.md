@@ -1,14 +1,5 @@
 > 🚧 **Project :** alx-low_level_programming
 
-<br>
-
-<div>
-  <a href="https://github.com/larsensong/alx-low_level_programming">
-    <img src="https://github.com/larsensong/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="100" height="100">
-  </a>
-</div>
-
-<br>
 
 > 📝 **Summary:**
 
