@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Tis is my python readme file
-=======
+
 ### ALX Higher-level programming
 
 
@@ -18,4 +16,3 @@ using project-based peer learning. For more information, visit
 [this link](https://www.holbertonschool.com/).
 
 
->>>>>>> 64cafa75a54a5a82c11c05917668821c695ebeb8
