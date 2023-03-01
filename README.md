@@ -1,18 +1,6 @@
+# :ocean: Python 3.4 Projects :ocean:
 
-### ALX Higher-level programming
+In this Python repo I will be completing python assignments on the ALX software engineering school. This will also contain personal Python projects, those projects can be found under <code>0xFF-personal_projects</code>. 
 
-
-
-## Author
-
-* **Larsen_dev** <[larsensong](https://github.com/larsensong)>
-
-## Acknowledgements :pray:
-
-All work contained in this project is  part of the curriculum for
-ALX in conjunction with  Holberton School. This is a campus-based full-stack software
-engineering program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
-[this link](https://www.holbertonschool.com/).
-
+All Holberton Python projects will be found in the <code>0x00-0xEE</code> projects.
 
