@@ -48,3 +48,27 @@ Strictly followed `pep8` style guide. To install
 $ sudo apt-get install python3-pep8
 ```
 
+### Using Pip3
+
+Install Pip3
+
+```
+$ sudo apt-get install python3-pip
+```
+
+Install Pep8
+
+```
+$ pip3 install pep8
+```
+
+### Check The Version
+
+```
+$ pep8 --version
+1.7.1
+```
+
+## :pencil: Version
+
+* 0.1.0
