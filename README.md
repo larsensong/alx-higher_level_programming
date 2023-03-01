@@ -22,3 +22,19 @@ All ALX Python projects will be found in the <code>0x00-0xEE</code> projects.
 
 * Some problems are written in C, those require `gcc`
 
+```
+$ sudo apt-get install git
+```
+
+```
+$ sudo apt-get install python3
+```
+
+
+## :arrow_down: Installing
+
+Clone the repository into a new directory
+
+```
+$ git clone https://github.com/@larsensong/alx-higher_level_programming.git
+```
