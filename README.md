@@ -72,3 +72,7 @@ $ pep8 --version
 ## :pencil: Version
 
 * 0.1.0
+
+
+## :blue_book: Authors
+* **Larsen Song**
