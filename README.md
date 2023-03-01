@@ -38,3 +38,13 @@ Clone the repository into a new directory
 ```
 $ git clone https://github.com/@larsensong/alx-higher_level_programming.git
 ```
+## :books: Coding Style Tests
+
+Strictly followed `pep8` style guide. To install
+
+### Regular Ubuntu 14.04 install
+
+```
+$ sudo apt-get install python3-pep8
+```
+
