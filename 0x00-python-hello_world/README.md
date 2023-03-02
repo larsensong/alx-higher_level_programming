@@ -26,3 +26,7 @@ $ sudo apt-get install python3
 
 ## :blue_book: Authors
 * **Larsen Song**
+
+## :mega: Acknowledgments
+
+* ALX Software Engineering School (providing guidance)
