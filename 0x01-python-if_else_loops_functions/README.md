@@ -1,1 +1,2 @@
-The if/else, loops, functions
+# :shell: 0x01 - If statements and loops :shell:
+
