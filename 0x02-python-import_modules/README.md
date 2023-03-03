@@ -16,3 +16,13 @@ In this project I will be using modules in Python3 to complete various tasks. I 
 
 * Must have `python3` installed
 
+```
+$ sudo apt-get install git
+```
+
+```
+$ sudo apt-get install python3
+```
+
+## :blue_book: Authors
+* **Larsen Song**
