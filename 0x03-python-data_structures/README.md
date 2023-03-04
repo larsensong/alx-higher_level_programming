@@ -15,3 +15,7 @@ In this project I will be learning how different data structures are implemented
 
 * Must have `python3` installed
 
+```
+$ sudo apt-get install git
+```
+
