@@ -19,3 +19,7 @@ In this project I will be learning how different data structures are implemented
 $ sudo apt-get install git
 ```
 
+
+```
+$ sudo apt-get install python3
+```
