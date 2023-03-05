@@ -15,3 +15,8 @@ In this project I will be learning about exception handling as well as how to cr
 * Must have repository cloned
 
 * Must have `python3` installed
+
+```
+$ sudo apt-get install git
+```
+
