@@ -23,4 +23,5 @@ $ sudo apt-get install git
 ```
 $ sudo apt-get install python3
 ```
-
+## :blue_book: Authors
+* **Larsen Song**
