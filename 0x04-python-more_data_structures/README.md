@@ -15,3 +15,12 @@ In this project I will be learning more about data structures, list comprehensio
 * Must have repository cloned
 
 * Must have `python3` installed
+
+```
+$ sudo apt-get install git
+```
+
+```
+$ sudo apt-get install python3
+```
+
