@@ -9,3 +9,9 @@ In this project I will be furthering my understanding of classes in python. I wi
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have `python3` installed
