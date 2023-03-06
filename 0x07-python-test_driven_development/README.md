@@ -17,3 +17,7 @@ The goal is to create unit tests before creating the actual program itself.
 * Must have repository cloned
 
 * Must have `python3` installed
+
+```
+$ sudo apt-get install git
+```
