@@ -15,3 +15,13 @@ In this project I will be furthering my understanding of classes in python. I wi
 * Must have repository cloned
 
 * Must have `python3` installed
+
+
+```
+$ sudo apt-get install git
+```
+
+```
+$ sudo apt-get install python3
+```
+
