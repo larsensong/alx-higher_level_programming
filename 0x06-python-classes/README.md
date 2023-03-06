@@ -8,3 +8,11 @@ In this project I will be learning how to implement classes and object oriented 
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
+## :warning: Prerequisites
+
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have `python3` installed
+
