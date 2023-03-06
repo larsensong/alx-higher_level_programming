@@ -16,3 +16,6 @@ In this project I will be learning how to implement classes and object oriented 
 
 * Must have `python3` installed
 
+```
+$ sudo apt-get install git
+```
