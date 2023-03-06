@@ -12,3 +12,8 @@ The goal is to create unit tests before creating the actual program itself.
 
 ## :warning: Prerequisites
 
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have `python3` installed
