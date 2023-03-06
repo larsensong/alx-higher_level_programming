@@ -21,3 +21,7 @@ The goal is to create unit tests before creating the actual program itself.
 ```
 $ sudo apt-get install git
 ```
+
+```
+$ sudo apt-get install python3
+```
