@@ -20,3 +20,7 @@ In this project I will be completing basic questions about types and objects in 
 $ sudo apt-get install git
 ```
 
+
+```
+$ sudo apt-get install python3
+```
