@@ -3,3 +3,5 @@
 I will be working with inheritance in Python in this project. Previously I have only worked with single inheritance-based languages like C#. Working with multiple inheritance will be interesting.
 
 ## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
