@@ -3,3 +3,7 @@
 In this project I will be completing basic questions about types and objects in python. I will be learning more about "first class everything" in python.
 
 ## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+
+
