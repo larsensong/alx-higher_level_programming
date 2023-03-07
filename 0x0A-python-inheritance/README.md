@@ -19,3 +19,7 @@ I will be working with inheritance in Python in this project. Previously I have 
 ```
 $ sudo apt-get install python3
 ```
+
+```
+$ sudo apt-get install git
+```
