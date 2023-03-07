@@ -13,3 +13,5 @@ I will be working with inheritance in Python in this project. Previously I have 
 * Must have `git` installed
 
 * Must have repository cloned
+
+* Must have `python3` installed
