@@ -23,3 +23,6 @@ $ sudo apt-get install python3
 ```
 $ sudo apt-get install git
 ```
+
+## :blue_book: Authors
+* **Larsen**
