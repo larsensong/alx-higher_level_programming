@@ -10,3 +10,4 @@ In this project I will be completing basic questions about types and objects in 
 
 ## :warning: Prerequisites
 
+* Must have `git` installed
