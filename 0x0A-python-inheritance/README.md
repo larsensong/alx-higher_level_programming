@@ -17,4 +17,5 @@ I will be working with inheritance in Python in this project. Previously I have 
 * Must have `python3` installed
 
 ```
-$ sudo apt-get install git
+$ sudo apt-get install python3
+```
