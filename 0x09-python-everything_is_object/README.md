@@ -16,4 +16,7 @@ In this project I will be completing basic questions about types and objects in 
 
 * Must have `python3` installed
 
+```
+$ sudo apt-get install git
+```
 
