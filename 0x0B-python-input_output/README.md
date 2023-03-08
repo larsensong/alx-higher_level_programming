@@ -11,3 +11,5 @@ I will be working with inheritance in Python in this project. Previously I have 
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+* Must have repository cloned
