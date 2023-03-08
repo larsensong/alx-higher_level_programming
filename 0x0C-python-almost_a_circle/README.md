@@ -9,3 +9,5 @@ In this project I will be starting my clone of airbnb. I will be creating unit t
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
