@@ -15,3 +15,7 @@ In this project I will be starting my clone of airbnb. I will be creating unit t
 * Must have repository cloned
 
 * Must have `python3` installed
+
+```
+$ sudo apt-get install git
+```
