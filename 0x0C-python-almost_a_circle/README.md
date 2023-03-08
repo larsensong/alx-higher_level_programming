@@ -11,3 +11,5 @@ In this project I will be starting my clone of airbnb. I will be creating unit t
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+* Must have repository cloned
