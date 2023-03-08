@@ -13,3 +13,5 @@ In this project I will be starting my clone of airbnb. I will be creating unit t
 * Must have `git` installed
 
 * Must have repository cloned
+
+* Must have `python3` installed
