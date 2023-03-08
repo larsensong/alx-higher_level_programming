@@ -19,3 +19,7 @@ In this project I will be starting my clone of airbnb. I will be creating unit t
 ```
 $ sudo apt-get install git
 ```
+
+```
+$ sudo apt-get install python3
+```
