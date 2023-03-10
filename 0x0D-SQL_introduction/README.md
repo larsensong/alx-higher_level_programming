@@ -42,3 +42,5 @@ Strictly followed `pep8` style guide. To install
 ```
 $ sudo apt-get install python3-pep8
 ```
+
+### Using Pip3
