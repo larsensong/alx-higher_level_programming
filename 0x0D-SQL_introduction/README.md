@@ -14,3 +14,5 @@ Personal project code will either follow <code>pep8</code> or the new <code>pyco
 ## :warning: Prerequisites
 
 * Must have `git` installed 
+
+* Must have repository cloned
