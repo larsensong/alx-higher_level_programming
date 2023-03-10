@@ -34,3 +34,5 @@ $ sudo apt-get install python3
 Clone the repository into a new directory
 
 ## :books: Coding Style Tests
+
+Strictly followed `pep8` style guide. To install
