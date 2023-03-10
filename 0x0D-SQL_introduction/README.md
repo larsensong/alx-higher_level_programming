@@ -3,4 +3,6 @@ In this Python repo I will be completing SQL assignments in ALX programming Scho
 All code follows <code>pep8</code> style per ALX school specifications.
 Personal project code will either follow <code>pep8</code> or the new <code>pycodestyle</code>.
 
-## :running: Getting Started 
+## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd. 
