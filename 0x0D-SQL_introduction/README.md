@@ -16,3 +16,5 @@ Personal project code will either follow <code>pep8</code> or the new <code>pyco
 * Must have `git` installed 
 
 * Must have repository cloned
+
+* Must have `python3` installed
