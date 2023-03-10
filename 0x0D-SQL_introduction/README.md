@@ -46,3 +46,6 @@ $ sudo apt-get install python3-pep8
 ### Using Pip3
 
 Install Pip3
+
+## :blue_book: Authors
+* **Larsen Song**
