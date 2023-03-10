@@ -32,3 +32,5 @@ $ sudo apt-get install python3
 # :arrow_down: Installing
 
 Clone the repository into a new directory
+
+## :books: Coding Style Tests
