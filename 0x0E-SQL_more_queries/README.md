@@ -18,3 +18,5 @@ Personal project code will either follow
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+* Must have repository cloned
