@@ -8,3 +8,5 @@ Personal project code will either follow
 <code>pep8</code> or the new <code>pycodestyle</code>.
 
 ## :running: Getting Started
+
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
