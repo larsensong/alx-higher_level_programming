@@ -43,3 +43,4 @@ Clone the repository into a new directory
 
 Strictly followed `pep8` style guide. To install
 
+### Regular Ubuntu 14.04 install
