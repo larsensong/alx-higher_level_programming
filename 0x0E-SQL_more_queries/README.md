@@ -20,3 +20,5 @@ Personal project code will either follow
 * Must have `git` installed
 
 * Must have repository cloned
+
+* Must have `python3` installed
