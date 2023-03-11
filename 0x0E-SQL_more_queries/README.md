@@ -48,3 +48,6 @@ Strictly followed `pep8` style guide. To install
 ### Using Pip3
 
 Install Pip3
+
+## :blue_book: Authors
+* **Larsen Song**
