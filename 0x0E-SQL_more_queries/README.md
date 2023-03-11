@@ -2,3 +2,4 @@
 
 In this Python repository I will be completing SQL assignments in ALX programming School.i
 All code follows 
+<code>pep8</code>
