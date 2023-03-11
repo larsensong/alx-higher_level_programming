@@ -22,3 +22,6 @@ Personal project code will either follow
 * Must have repository cloned
 
 * Must have `python3` installed
+
+
+* Some problems are written in C, those require `gcc`
