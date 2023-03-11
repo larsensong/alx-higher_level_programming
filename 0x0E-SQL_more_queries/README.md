@@ -25,3 +25,7 @@ Personal project code will either follow
 
 
 * Some problems are written in C, those require `gcc`
+
+```
+$ sudo apt-get install git
+```
