@@ -5,3 +5,4 @@ All code follows
 <code>pep8</code>
 style per ALX school specifications.
 Personal project code will either follow
+<code>pep8</code> or the new <code>pycodestyle</code>.
