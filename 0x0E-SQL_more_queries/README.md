@@ -35,3 +35,4 @@ $ sudo apt-get install python3
 ```
 
 
+# :arrow_down: Installing
