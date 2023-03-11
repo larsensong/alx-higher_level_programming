@@ -16,3 +16,5 @@ Personal project code will either follow
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
 ## :warning: Prerequisites
+
+* Must have `git` installed
