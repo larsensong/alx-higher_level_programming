@@ -1,7 +1,7 @@
 # :ocean: 0x0E-SQL_more_queries :ocean:
 
 In this Python repository I will be completing SQL assignments in ALX programming School.i
-All code follows 
+All code follow 
 <code>pep8</code>
 style per ALX Programming  school specifications.
 Personal project code will either follow.
