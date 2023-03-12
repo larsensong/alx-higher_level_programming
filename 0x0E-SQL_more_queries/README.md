@@ -4,7 +4,7 @@ In this Python repository I will be completing SQL assignments in ALX programmin
 All code follows 
 <code>pep8</code>
 style per ALX Programming  school specifications.
-Personal project code will either follow
+Personal project code will either follow.
 <code>pep8</code> or the new <code>pycodestyle</code>.
 
 ## :running: Getting Started
