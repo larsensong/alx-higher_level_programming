@@ -40,3 +40,5 @@ $ sudo apt-get install -y nodejs
 $ sudo npm install semistandard --global
 ```
 
+## :blue_book: Authors
+* **Larsen Song**
