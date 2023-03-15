@@ -19,3 +19,8 @@ In this project I will be going over an introduction to javascript. I don't much
 * SemiStandard complient
 
 [![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
+
+
+```
+$ sudo apt-get install git
+```
