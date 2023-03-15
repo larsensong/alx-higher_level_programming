@@ -10,3 +10,10 @@ In this project I will be going over an introduction to javascript. I don't much
 
 ## :warning: Prerequisites
 
+* Must have `git` installed
+
+* Must have repository cloned
+
+* Must have node installed
+
+* SemiStandard complient
