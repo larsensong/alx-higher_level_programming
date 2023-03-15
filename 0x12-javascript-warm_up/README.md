@@ -5,3 +5,5 @@ In this project I will be going over an introduction to javascript. I don't much
 ## :running: Getting Started
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+
+* [Node 6](https://deb.nodesource.com/setup_6.x) - Node version used
