@@ -36,3 +36,6 @@ $ sudo apt-get install mysqlclient
 ```
 $ sudo apt-get install SQLAlchemy
 ```
+
+## :blue_book: Authors
+* **Larsen Song**
