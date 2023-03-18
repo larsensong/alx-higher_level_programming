@@ -1,1 +1,1 @@
-Javascript - Objects, Scopes and Closures
+# :shell: 0x12 - Javascript! :shell:
