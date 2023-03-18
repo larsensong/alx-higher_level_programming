@@ -26,3 +26,9 @@ In this project we will be doing more javascript. I am not a frontend engineer n
 ```
 $ sudo apt-get install git
 ```
+
+
+```
+$ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+```
