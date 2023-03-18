@@ -17,3 +17,5 @@ In this project we will be doing more javascript. I am not a frontend engineer n
 * Must have repository cloned
 
 * Must have node installed
+
+* SemiStandard complient
