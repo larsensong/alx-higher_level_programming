@@ -1,3 +1,5 @@
 # :shell: 0x13 - Javascript! :shell:
 
 In this project we will be doing more javascript. I am not a frontend engineer nor do I want to be one after designing two iOS applications. Thus I doubt I will like javascript. However, I am keeping an open mind.
+
+## :running: Getting Started
