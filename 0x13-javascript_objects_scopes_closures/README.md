@@ -6,3 +6,4 @@ In this project we will be doing more javascript. I am not a frontend engineer n
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
 
+* [Node 6](https://deb.nodesource.com/setup_6.x) - Node version used
