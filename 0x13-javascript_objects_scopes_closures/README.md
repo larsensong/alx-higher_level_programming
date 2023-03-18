@@ -12,3 +12,6 @@ In this project we will be doing more javascript. I am not a frontend engineer n
 ## :warning: Prerequisites
 
 * Must have `git` installed
+
+
+* Must have repository cloned
