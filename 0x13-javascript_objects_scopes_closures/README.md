@@ -19,3 +19,5 @@ In this project we will be doing more javascript. I am not a frontend engineer n
 * Must have node installed
 
 * SemiStandard complient
+
+[![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
