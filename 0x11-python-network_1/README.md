@@ -16,3 +16,14 @@ In this project I will be making http requests using pythons libraries `urllib` 
 
 * Must have `python3` installed
 
+
+```
+$ sudo apt-get install git
+```
+
+```
+$ sudo apt-get install python3
+```
+
+## :blue_book: Authors
+* **Larsen Song** 
