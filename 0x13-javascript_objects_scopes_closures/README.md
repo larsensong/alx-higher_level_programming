@@ -1,7 +1,7 @@
 # :shell: 0x13 - Javascript! :shell:
 
 In this project we will be doing more javascript. The project is based on creation of classes.
-As it progress i will 
+As it progress i will start to add  
 ## :running: Getting Started
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
