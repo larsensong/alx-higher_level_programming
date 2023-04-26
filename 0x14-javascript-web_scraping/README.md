@@ -1,3 +1,3 @@
-# :ocean:0x04. AirBnB clone - Web framework :ocean:
+# :ocean:0x14. JavaScript - Web scraping :ocean:
 
-In this Python repository I will be completing JavaScript - Web scraping. 
+In this Python repository I will be completing 0x14. JavaScript - Web scraping assignments.
