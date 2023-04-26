@@ -18,3 +18,7 @@ I will be using the java script language.
 * Must have repository cloned
 
 * Must have `python3` installed
+
+```
+$ sudo apt-get install git
+```
