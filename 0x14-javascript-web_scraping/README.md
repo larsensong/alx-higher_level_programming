@@ -1,1 +1,1 @@
-# :ocean:0x04. AirBnB clone - Web framework :ocean:
+# :ocean:0x14. JavaScript - Web scraping :ocean:
