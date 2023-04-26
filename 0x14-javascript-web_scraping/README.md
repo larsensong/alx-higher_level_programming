@@ -22,3 +22,7 @@ I will be using the java script language.
 ```
 $ sudo apt-get install git
 ```
+
+```
+$ sudo apt-get install python3
+```
