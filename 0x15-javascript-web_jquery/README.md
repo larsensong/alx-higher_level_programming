@@ -9,7 +9,7 @@ In this Python repository I will be completingjavascript assignments in ALX prog
 
 * [GCC 4.8.4](https://gcc.gnu.org/gcc-4.8/) - Compiler that  used
 
-* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python version that is  Used
+* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python version that is  Used.
 
 ## :warning: Prerequisites
 
