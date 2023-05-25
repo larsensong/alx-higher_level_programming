@@ -2,7 +2,7 @@
 
 
 In this Python repository I will be completing
-javascript based assignments in ALX programming School.
+javascript based assignments, i will  in ALX programming School.
 
 
 ## :running: Getting Started
