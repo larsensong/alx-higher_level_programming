@@ -10,7 +10,7 @@ In this project I will be making http requests using pythons libraries `urllib` 
 
 ## :warning: Prerequisites
 
-* Must have `git` installed
+* Must have `git` installed.
 
 * Must have repository cloned
 
