@@ -6,7 +6,7 @@ In this project I will be making http requests using pythons libraries `urllib` 
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system that is required.
 
-* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
+* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used.
 
 ## :warning: Prerequisites
 
