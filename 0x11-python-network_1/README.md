@@ -4,7 +4,7 @@ In this project I will be making http requests using pythons libraries `urllib` 
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system thatrequired.
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system that required.
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
