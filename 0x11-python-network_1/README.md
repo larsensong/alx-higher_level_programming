@@ -8,7 +8,7 @@ In this project I will be making http requests using pythons libraries `urllib` 
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used.
 
-## :warning: Prerequisites
+## :warning: Prerequisites.
 
 * Must have `git` installed.
 
