@@ -4,7 +4,7 @@ In this project I will be using modules in Python3 to complete various tasks. I 
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system requid.
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system requird.
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
