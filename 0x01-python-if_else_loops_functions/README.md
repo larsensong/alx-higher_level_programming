@@ -4,7 +4,7 @@ In this project I will be using if statements and loops in python to get acquain
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system that required.
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
