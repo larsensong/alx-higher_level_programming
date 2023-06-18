@@ -5,7 +5,7 @@ In this project I will be learning how different data structures are implemented
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
-* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version to Used
+* [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version to be Used
 
 ## :warning: Prerequisites
 
