@@ -3,7 +3,7 @@
 In this project I will be learning how different data structures are implemented in Python. Including Lists and Tuples primarily.
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system requiredd.
 
 * [Python 3.4](https://www.python.org/download/releases/3.4.0/) - Python Version Used
 
